@@ -1,4 +1,4 @@
 # site-aumigos
-foto nova
+atual
 acesse por aqui: https://alexprogramador.github.io/site-aumigos/
 

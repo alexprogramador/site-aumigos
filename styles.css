@@ -26,6 +26,8 @@ header p {
 /* Seções */
 section {
     padding: 40px 10%;
+     text-align: justify;
+    text-justify: inter-word;
 }
 section h2 {
     color: #2c7a52;

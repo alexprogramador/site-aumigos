@@ -159,3 +159,13 @@ footer {
     border-radius: 10px;      /* Deixa os cantos levemente arredondados */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave */
 }
+
+.link-instituto a {
+    text-decoration: none;  /* Remove o sublinhado */
+    color: inherit;         /* Mantém a mesma cor do texto */
+    font-weight: bold;      /* (opcional) deixa o texto mais destacado */
+}
+
+.link-instituto a:hover {
+    color: #0066cc;         /* (opcional) muda a cor ao passar o mouse */
+}

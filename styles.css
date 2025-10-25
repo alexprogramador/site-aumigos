@@ -150,3 +150,12 @@ footer {
     margin-right: 10px;
     vertical-align: middle;
 }
+
+.imagem-projeto {
+    display: block;           /* Faz a imagem se comportar como um bloco */
+    margin: 20px auto;        /* Centraliza horizontalmente */
+    max-width: 45%;           /* Diminui o tamanho da imagem (ajuste como quiser: 30%, 40%, etc.) */
+    height: auto;             /* Mantém as proporções originais */
+    border-radius: 10px;      /* Deixa os cantos levemente arredondados */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave */
+}
